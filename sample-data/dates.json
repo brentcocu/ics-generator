@@ -1,0 +1,253 @@
+[
+    {
+        "title": "Repetitie KVL",
+        "date": "27/08/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "setting bedrijf 1 (3-18)",
+            "excluded": "Thérèse, Ronnie, Theresia, Thijs, Theo"
+        }
+    },
+    {
+        "title": "Repetitie KVL",
+        "date": "29/08/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 1 (3-18)",
+            "excluded": "Thérèse, Ronnie, Theresia, Thijs, Theo"}},
+    {
+        "title": "Repetitie KVL",
+        "date": "3/09/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "setting bedrijf 2 (19-44)",
+            "excluded": "Theresia en Thijs"}},
+    {
+        "title": "Repetitie KVL",
+        "date": "5/09/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 2 (19-44)",
+            "excluded": "Theresia en Thijs"}},
+    {
+        "title": "Repetitie KVL",
+        "date": "10/09/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 1 (3-18)",
+            "excluded": "Thérèse, Ronnie, Theresia, Thijs, Theo"}},
+    {
+        "title": "Repetitie KVL",
+        "date": "12/09/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 2 (19-44)",
+            "excluded": "Theresia en Thijs"}},
+    {
+        "title": "Repetitie KVL",
+        "date": "17/09/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "setting bedrijf 3 (45-61)",
+            "excluded": "Theresia"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "19/09/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 3 (45-61)",
+            "excluded": "Theresia"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "24/09/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 1+2",
+            "excluded": "Theresia en Thijs"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "26/09/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "setting bedrijf 4 (62-76)"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "1/10/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 4 (62-76)"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "3/10/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 1+2 (tekst gekend)",
+            "excluded": "Theresia en Thijs"}},
+    {
+        "title": "Repetitie KVL",
+        "date": "8/10/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 3+4"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "10/10/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 1+2",
+            "excluded": "Theresia en Thijs"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "15/10/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 3+4 (tekst gekend)"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "17/10/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 1+2",
+            "excluded": "Theresia en Thijs"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "22/10/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 3+4"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "24/10/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 1+2",
+            "excluded": "Theresia en Thijs"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "29/10/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "repetitie bedrijf 3+4"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "31/10/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "moeilijke stukken"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "3/11/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "dagrepetitie: doorloop"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "5/11/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "doorloop voor pauze"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "7/11/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "doorloop na pauze"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "12/11/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "doorloop voor pauze"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "14/11/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "doorloop na pauze"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "17/11/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "dagrepetitie",
+            "excluded": "kostuums aanwezig"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "18/11/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "technische repetitie",
+            "excluded": "focus op techniek"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "19/11/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "pre-generale"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "20/11/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "rustdag",
+            "excluded": "als het kan ;-)"
+        }},
+    {
+        "title": "Repetitie KVL",
+        "date": "21/11/2024",
+        "time": "20h00",
+        "context": {
+            "topic": "generale repetitie"
+        }},
+    {
+        "title": "Première KVL",
+        "date": "22/11/2024",
+        "time": "20h00",
+        "context": {}
+    },
+    {
+        "title": "Voorstelling KVL",
+        "date": "23/11/2024",
+        "time": "20h00",
+        "context": {}
+    },
+    {
+        "title": "Voorstelling KVL",
+        "date": "27/11/2024",
+        "time": "20h00",
+        "context": {}
+    },
+    {
+        "title": "Voorstelling KVL",
+        "date": "29/11/2024",
+        "time": "20h00",
+        "context": {}
+    },
+    {
+        "title": "Voorstelling KVL",
+        "date": "30/11/2024",
+        "time": "20h00",
+        "context": {}
+    }
+]
